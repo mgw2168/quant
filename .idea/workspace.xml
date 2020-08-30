@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a9524b4-8a89-4506-afee-6c10ff195bc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="dc51385e-224f-4d99-931f-7f5aa68f7614" />
+  <component name="ProjectId" id="1gjJkQJpIhFZfdRzJjJg0dvCYW6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.gen_kline_data">
+    <configuration name="多项式曲线拟合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mechine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多项式曲线拟合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="时间线轮播图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mechine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/时间线轮播图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gen_kline_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mechine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/量化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/量化/gen_kline_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gen_ma_plt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mechine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/量化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/量化/gen_ma_plt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mechine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gen_kline_data" />
+        <item itemvalue="Python.gen_ma_plt" />
+        <item itemvalue="Python.多项式曲线拟合" />
+        <item itemvalue="Python.时间线轮播图" />
+        <item itemvalue="Python.kline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a9524b4-8a89-4506-afee-6c10ff195bc7" name="Default Changelist" comment="" />
+      <created>1598622210392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598622210392</updated>
+      <workItem from="1598622214096" duration="26907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="139" key="FileChooserDialogImpl" timestamp="1598673467475">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="458" y="139" key="FileChooserDialogImpl/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598673467475" />
+    <state width="1388" height="147" key="GridCell.Tab.0.bottom" timestamp="1598797096344">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="147" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598797096344" />
+    <state width="1388" height="147" key="GridCell.Tab.0.center" timestamp="1598797096343">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="147" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598797096343" />
+    <state width="1388" height="147" key="GridCell.Tab.0.left" timestamp="1598797096342">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="147" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598797096342" />
+    <state width="1388" height="147" key="GridCell.Tab.0.right" timestamp="1598797096344">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="147" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598797096344" />
+    <state width="1388" height="247" key="GridCell.Tab.1.bottom" timestamp="1598787781771">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="247" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598787781771" />
+    <state width="1388" height="247" key="GridCell.Tab.1.center" timestamp="1598787781771">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="247" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598787781771" />
+    <state width="1388" height="247" key="GridCell.Tab.1.left" timestamp="1598787781770">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="247" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598787781770" />
+    <state width="1388" height="247" key="GridCell.Tab.1.right" timestamp="1598787781771">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1388" height="247" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598787781771" />
+    <state x="324" y="145" width="879" height="574" key="find.popup" timestamp="1598693032337">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="324" y="145" width="879" height="574" key="find.popup/1440.23.1920.1057/0.23.1440.819@0.23.1440.819" timestamp="1598693032337" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mechine_learning$gen_kline_data.coverage" NAME="gen_kline_data Coverage Results" MODIFIED="1598796518985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/量化" />
+    <SUITE FILE_PATH="coverage/mechine_learning$.coverage" NAME="多项式曲线拟合 Coverage Results" MODIFIED="1598795849461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mechine_learning$k.coverage" NAME="gen_ma_plt Coverage Results" MODIFIED="1598796505630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/量化" />
+    <SUITE FILE_PATH="coverage/mechine_learning$kline.coverage" NAME="kline Coverage Results" MODIFIED="1598673507293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mechine_learning$es_opt.coverage" NAME="es_opt Coverage Results" MODIFIED="1598671246580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
